@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Consumers.Concrete": {
+      "commandName": "Project",
+      "commandLineArgs": "\"{\r\n  \\\"id\\\": \\\"4bfa2b1d-bf9b-4871-8338-98911d1c4c38\\\",\r\n  \\\"name\\\": \\\"Milano\\\",\r\n  \\\"address\\\": \\\"Milano\\\"\r\n}\""
+    }
+  }
+}

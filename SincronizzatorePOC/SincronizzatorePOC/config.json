@@ -1,0 +1,19 @@
+{
+  "consumers": [
+    {
+      "id": "4bfa2b1d-bf9b-4871-8338-98911d1c4c38",
+      "name": "Milano",
+      "address": "Milano"
+    },
+    {
+      "id": "aa411053-e6a9-4e60-908a-1d1d9b3f8a87",
+      "name": "Roma",
+      "address": "Roma"
+    },
+    {
+      "id": "a67b5e14-aa29-42a1-a1a4-f287482440bf",
+      "name": "Bangkok",
+      "address": "Bangkok"
+    }
+  ]
+}
